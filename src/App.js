@@ -6,6 +6,7 @@ import React, { Component } from "react";
 import Header from "./components/Header";
 import About from "./components/About";
 import Skills from "./components/Skills";
+import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 
 //---------- CSS ----------
@@ -35,6 +36,10 @@ class App extends Component {
         />
         <Skills
           sharedSkills={this.state.sharedData.skills}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
+        <Experience
+          resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info}/>
