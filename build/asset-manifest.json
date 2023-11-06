@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3f2c4d9.css",
+    "main.js": "/static/js/main.fa964d48.js",
+    "static/media/quentin-colombelle.JPG": "/static/media/quentin-colombelle.0873ec18c1db0a734c8e.JPG",
+    "index.html": "/index.html",
+    "main.f3f2c4d9.css.map": "/static/css/main.f3f2c4d9.css.map",
+    "main.fa964d48.js.map": "/static/js/main.fa964d48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f2c4d9.css",
+    "static/js/main.fa964d48.js"
+  ]
+}
