@@ -1,21 +1,23 @@
 {
     "basic_info": {
-      "name": "Quentin Colombelle",
-      "titles": [ "Front-end Developer", "Web Integrator", "Mobile App Developer" ],
+      "name": "CRESSON Alexis",
+      "titles": [ "Front-end Developer", "Intégrateur Web", "Web Designer", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/Deathlyjoy",
+          "url": "https://github.com/creacress",
           "class": "fab fa-github",
           "description": "logo github"
         },
         {
           "name": "Linkedin",
-          "url": "https://www.linkedin.com",
-          "class": "fab fa-linkedin"
+          "url": "https://www.linkedin.com/in/alexis-cresson/",
+          "class": "fab fa-linkedin",
+          "description": "logo Linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "cresson-alexis.webp",
+      "url"  :"https://github.com/creacress"
     },
     "skills": {
       "icons": [
@@ -29,15 +31,85 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
+        
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JQuery",
+          "class": "devicon-jquery-plain",
+          "level": "85"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },{
+          "name": "React-Native",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+        {
+          "name": "Xcode",
+          "class": "devicon-xcode-plain",
           "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "80"
         },
         {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Jest",
+          "class": "devicon-jest-plain",
+          "level": "85"
+        },
+        {
+          "name": "FIGMA",
+          "class": "devicon-figma-plain",
+          "level": "80"
+        },
+        {
+          "name": "Canva",
+          "class": "devicon-canva-plain",
+          "level": "80"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "65"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Google tools",
+          "class": "devicon-google-plain",
+          "level": "85"
         }
       ]
     }

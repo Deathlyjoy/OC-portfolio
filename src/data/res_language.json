@@ -1,0 +1,288 @@
+{
+    "basic_info": {
+      "description_header": "Freelance front-end | Intégrateur web | Web design",
+      "description": "👋 En tant que passionné du développement web , je me consacre à la réalisation de vos projets personnalisés en suivant scrupuleusement notre cahier des charges. Mes compétences spécialisées incluent le référencement des sites web (SEO) ainsi que la création de portfolios attrayants. De plus, je suis également expérimenté dans les technologies React et React Native, ce qui me permet de développer des applications web et mobiles interactives et performantes.",
+      "section_name": {
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Riding-Cities",
+        "startDate": "2022",
+        "description": "Vous rejoignez l’agence Webonzaï pour un stage en tant que développeur junior. Romain, votre maître de stage et CTO, est en déplacement professionnel la semaine de votre arrivée. Pour vous permettre d’avancer sans lui, il vous confie par e-mail votre première mission : mettre à jour la page Internet de Riding Cities, une association sportive qui promeut le skate en région.",
+        "images": [
+          "images/portfolio/Riding_Cities/ridies-template.webp",
+          "images/portfolio/Riding_Cities/header.webp",
+          "images/portfolio/Riding_Cities/ridies-cours.webp"
+        ],
+        "url": "https://github.com/creacress/Riding-Cities",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Booki",
+        "startDate": "2022",
+        "description": "Vous débutez votre alternance en tant que développeur web au sein de la start-up Booki. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, vous travaillez en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer. Sarah vous envoie un e-mail pour vous présenter l’avancée du projet.",
+        "images": [
+          "images/portfolio/Booki/booki-template.webp",
+          "images/portfolio/Booki/booki_presta.webp",
+          "images/portfolio/Booki/Desktop.webp",
+          "images/portfolio/Booki/booki-footer.webp",
+          "images/portfolio/Booki/booki-responsive.webp"
+        ],
+        "url": "https://github.com/creacress/Booki",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Oh My Food",
+        "startDate": "2023",
+        "description": "Vous avez intégré Ohmyfood en tant que développeur junior. Il s’agit d’une jeune startup qui voudrait s'imposer sur le marché de la restauration. Déjà présente à New-York, elle souhaite désormais faire sa place à Paris. Votre mission est de développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !",
+        "images": [
+          "images/portfolio/Oh_my_food/ohmyfood-template.webp",
+          "images/portfolio/Oh_my_food/ohmyfood-menu.webp"
+        ],
+        "url": "https://github.com/creacress/OhMyFood",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Print-it",
+        "startDate": "2023",
+        "description": "Ce projet avait pour but de me faire découvrir le langage JavaScript, très populaire parmi les développeurs web. Il est très guidé et vous accompagnera étape par étape dans l'acquisition des fondamentaux du langage.",
+        "images": [
+          "images/portfolio/Print-it/print-it-template.webp",
+          "images/portfolio/Print-it/logo.webp",
+          "images/portfolio/Print-it/print-it-footer.webp",
+          "images/portfolio/Print-it/slide1.webp"
+        ],
+        "url": "https://github.com/creacress/OhMyFood",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Portfolio Sophie Bluel",
+        "startDate": "2023",
+        "description": "Vous travaillez comme développeur front-end pour l’agence ArchiWebos qui comprend 50 salariés. Ayant terminé votre dernier projet avec un peu d'avance, vous êtes envoyé en renfort comme développeur front-end d’une équipe qui travaille sur la conception du site portfolio d’une architecte d’intérieur. Nous sommes lundi matin et c’est l’heure de votre premier brief d’équipe pour ce projet. Vous savez que vous allez recevoir beaucoup d’informations, vous vous préparez donc à prendre des notes.",
+        "images": [
+          "images/portfolio/Portfolio_Bruel/sophie-template.webp",
+          "images/portfolio/Portfolio_Bruel/sophie-log.webp",
+          "images/portfolio/Portfolio_Bruel/sophie-modal.webp"
+        ],
+        "url": "https://github.com/creacress/PortFolio_Sophie_Bluel",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Gestion de projet",
+        "startDate": "2023",
+        "description": "Vous êtes développeur front-end au sein de l’agence Webgencia. Cette semaine, on vous confie une mission un peu différente de d’habitude. Il ne s’agit pas de développer un site mais de mener, préparer et planifier le projet de développement d’un site.",
+        "images": [
+          "images/portfolio/Gestion_Projet/menu.webp",
+          "images/portfolio/Gestion_Projet/P1.webp",
+          "images/portfolio/Gestion_Projet/presentation.webp",
+          "images/portfolio/Gestion_Projet/scrum.webp"
+        ],
+        "url": "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:752f5b80-4d88-4daf-8c44-884df51fef61",
+        "technologies": [
+          {
+            "class": "devicon-canva-plain",
+            "name": "Canva"
+          }
+        ]
+      },
+      {
+        "title": "Kasa",
+        "startDate": "2023",
+        "description": "Kasa vous recrute en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web. Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans maintenant. Avec plus de 500 annonces postées chaque jour, Kasa fait partie des leaders de la location d’appartements entre particuliers en France. L'occasion parfaite pour vous d'ajouter une belle référence à votre portfolio de freelance !",
+        "images": [
+          "images/portfolio/Kasa/kasa-template.webp",
+          "images/portfolio/Kasa/kasa-projet.jpg",
+          "images/portfolio/Kasa/kasa-projet-2.jpg"
+        ],
+        "url": "https://projectkasa.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "2023",
+        "description": "Vous êtes développeur freelance, et vous décidez de proposer vos services d’optimisation SEO à de nouveaux clients. Pour ce faire, vous avez analysé plusieurs sites internet. Parmi vos prospects, il y a le site de Nina Carducci, une photographe dont vous a parlé l’un de vos amis. https://nina-carducci.github.io/",
+        "images": [
+          "images/portfolio/Portfolio_Carducci/nina-template.webp",
+          "images/portfolio/Portfolio_Carducci/nina-prise.webp",
+          "images/portfolio/Portfolio_Carducci/nina-projet.webp"
+        ],
+        "url": "https://porffolio-carducci.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name" : "Bootstrap"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "SEO, outils Google"
+          }
+        ]
+      },
+      {
+        "title": "77 Events",
+        "startDate": "2023",
+        "description": "Vous êtes développeur front-end freelance, et l’agence évènementielle 724events vous contacte pour une mission. L’agence souhaite publier la nouvelle version de son site vitrine. Il s’agit d’un site one-page. Le design a été validé, et un premier développeur freelance a commencé l’intégration il y a quelques semaines. Malheureusement, ce freelance a dû abandonner le projet pour raisons personnelles. Le site est fonctionnel, mais quelques bugs entravent le bon usage par les visiteurs. 724events fait donc appel à vous pour finaliser le travail.",
+        "images": [
+          "images/portfolio/77Events/first.webp",
+          "images/portfolio/77Events/second.webp",
+          "images/portfolio/77Events/three.webp"
+        ],
+        "url": "https://774events.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "title": "Front-End Developer Freelance",
+        "company": "WebCressonTech",
+        "years": "08/2023",
+        "mainTech": [
+          "DevTEch"
+        ],
+        "technologies": [
+          "Html",
+          "Green Code",
+          "CSS",
+          "Sass",
+          "Bootstrap",
+          "JavaScript",
+          "REST API",
+          "React",
+          "React-Native",
+          "Xcode",
+          "Jest",
+          "Swagger",
+          "MongoDB",
+          "SEO",
+          "Google Tools",
+          "Canva",
+          "Audit",
+          "Figma"
+        ]
+      },
+      {
+        "title": " Student Front-End Developer",
+        "company": "OpenClassrooms",
+        "years": "09/2022 - 08/2023",
+        "mainTech": [
+          "DevTEch"
+        ],
+        "technologies": [
+          "Html",
+          "Green Code",
+          "CSS",
+          "Sass",
+          "Bootstrap",
+          "JavaScript",
+          "REST API",
+          "React",
+          "React-Native",
+          "Xcode",
+          "Jest",
+          "Swagger",
+          "MongoDB",
+          "SEO",
+          "Google Tools",
+          "Canva",
+          "Audit",
+          "Figma"
+        ]
+      }
+    ]
+  }

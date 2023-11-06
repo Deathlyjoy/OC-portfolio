@@ -1,0 +1,59 @@
+{
+  "services": [
+    {
+      "titre": "Création d'un site Web",
+      "option": "Option 1",
+      "details": [
+        "Faire un site web avec moi vous garantit une expérience personnalisée et sur mesure, car je m'engage à comprendre vos besoins uniques et à concevoir un site qui reflète parfaitement votre vision et votre identité de marque.",
+        "Mon expertise en conception web et en développement me permet de créer des sites à la pointe de la technologie, offrant une navigation fluide, un design attrayant et des fonctionnalités innovantes qui captiveront vos visiteurs et les inciteront à rester plus longtemps sur votre site.",
+        "En travaillant avec moi, vous bénéficiez d'un service complet, du concept initial à la mise en ligne, en passant par l'optimisation pour les moteurs de recherche (SEO) et la compatibilité avec les appareils mobiles, vous assurant ainsi d'atteindre une audience plus large et de maximiser votre visibilité en ligne.",
+        "La satisfaction de mes clients est ma priorité absolue, et je m'engage à assurer un suivi régulier pour m'assurer que votre site web continue de fonctionner de manière optimale et que toutes les mises à jour futures répondent à vos besoins évolutifs, vous permettant ainsi de prospérer dans le monde numérique en constante évolution."
+      ],
+      "imageCard": "designWeb.webp",
+      "imageModal": "createweb.webp"
+    },
+    {
+      "titre": "Référencement et Optimisation",
+      "option": "Option 2",
+      "details": [
+        "Rencontrez-vous des difficultés en matière de référencement pour votre site web ?",
+        "Ne vous inquiétez plus, car le SEO (Search Engine Optimization) peut être la solution qui attirera davantage de clients et améliorera votre visibilité sur la toile !",
+        "Le SEO repose sur des règles et des pratiques éprouvées, et il peut être facilement mis à jour pour obtenir des résultats durables.",
+        "Je m'engage à intégrer une stratégie SEO solide dès le début. En utilisant des outils puissants tels que Google Analytics et d'autres outils de recherche avancés, je pourrai analyser les performances de votre site, identifier les points à améliorer et mettre en place des ajustements pertinents pour optimiser votre positionnement dans les résultats de recherche.",
+        "L'objectif est de vous permettre de vous démarquer de la concurrence, d'attirer plus de trafic qualifié vers votre site et en fin de compte, de convertir ces visiteurs en clients fidèles.",
+        "Avec ma compréhension approfondie des dernières tendances en matière de SEO, je suis convaincu que nous pourrons ensemble propulser votre site vers de nouveaux sommets en ligne !",
+        "Alors, ne laissez pas vos difficultés de référencement vous freiner dans votre succès.",
+        "Confiez-moi la création de votre site web et je mettrai en œuvre les meilleures pratiques en SEO pour assurer votre croissance et votre succès sur la toile."
+      ],
+      "imageCard": "designSeo.webp",
+      "imageModal": "SEO.webp"
+    },
+    {
+      "titre": "Hébergement",
+      "option": "Option 3",
+      "details": [
+        "L'hébergement de votre site web peut s'avérer être une tâche complexe et difficile à gérer. Mais ne vous inquiétez plus ! Je suis là pour simplifier ce processus pour vous.",
+        "En me confiant votre projet, je m'occupe de tout, de l'hébergement à la gestion de votre nom de domaine et même de la maintenance continue de votre site web.",
+        "Vous n'aurez plus besoin de vous poser des questions telles que quel hébergeur choisir, quel nom de domaine conviendrait le mieux à votre entreprise, ou comment gérer les sous-domaines. Je m'occupe de toutes ces étapes pour vous.",
+        "Grâce à mon expertise en matière d'hébergement web, je sélectionnerai un hébergeur fiable et performant qui répondra parfaitement aux besoins spécifiques de votre site.",
+        "Je prends également en charge l'achat et la configuration de votre nom de domaine, veillant ainsi à ce qu'il soit pertinent et facile à mémoriser pour vos visiteurs.",
+        "En me confiant la gestion de l'hébergement et du nom de domaine de votre site, vous pouvez vous concentrer pleinement sur le développement de votre activité en ligne, en toute tranquillité d'esprit.",
+        "N'hésitez pas à faire appel à mes services pour vous offrir une solution complète et professionnelle pour votre présence en ligne !"
+      ],
+      "imageCard": "designHebergement.webp",
+      "imageModal": "webcressontech.webp"
+    },
+    {
+      "titre": "Petits portefeuilles",
+      "option": "Option 4",
+      "details": [
+        "En tant que professionnel, je suis parfaitement équipé pour réaliser avec succès tous vos projets, qu'il s'agisse de petits portfolios ou de petits sites vitrine sur mesure.",
+        "Mon expertise approfondie dans le domaine de la création de sites web garantit que chaque projet est abordé avec un haut niveau de professionnalisme et d'attention aux détails.",
+        "Grâce à mon approche méticuleuse et mon souci de fournir des résultats de qualité, vous pouvez avoir l'assurance que vos petits projets bénéficieront de la même excellence que mes plus grands travaux.",
+        "N'hésitez pas à me confier vos petits projets, quels qu'ils soient, car mon engagement envers le professionnalisme est le même pour les petits budgets !."
+      ],
+      "imageCard": "petitPortfeuille.webp",
+      "imageModal": "createweb.webp"
+    }
+  ]
+}

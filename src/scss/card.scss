@@ -1,0 +1,75 @@
+
+
+.section_cresson {
+    text-align: center;
+    h2 {
+        font-size: 4rem;
+    }
+}
+
+.card_cresson {
+    background: #a3b18a;
+    border: 1px solid #ccc;
+    border-radius: 130px 10px 130px 10px;
+    padding: 20px;
+    width: 30%;
+    margin: 5svh 0svh 5svh 63svh;
+    text-align: center;
+    &:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+  .card_cresson img {
+  max-width: 100%;
+    border-radius: 50%;
+  }
+  
+  .card_cresson h3 {
+    margin-top: 10px;
+  }
+  
+  .card_cresson a {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  .card_cresson button {
+    cursor: pointer;
+    padding: 2svh;
+    border: 0 #a3b18a;
+    border-radius: 35px 10px 35px 10px;
+    &:hover {
+        transform: scale(1.08);
+    }
+  }
+  .modal_cresson {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+    z-index: 1000;
+  }
+  
+  .modal_cresson a {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+  }
+  
+  @media screen and (max-width: 480px) {
+    .card_cresson {
+        background: #a3b18a;
+        border: 1px solid #ccc;
+        border-radius: 10px 10px 10px 10px;
+        padding: 20px;
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+  }

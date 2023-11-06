@@ -1,7 +1,7 @@
 import React from "react";
 
 const Header = ({ sharedData }) => {
-    const name = sharedData.name;
+    const name = sharedData?.name;
 
     return (
         <header id="home" style={{ height: window.innerHeight - 140, display: "block" }}>
