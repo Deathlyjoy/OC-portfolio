@@ -42,7 +42,7 @@ header {
   -o-background-size: cover;
   background-size: cover;
   padding-top: 150px;
-  padding-bottom: 0;
+  padding-bottom: 10px;
 }
 
 .language-icon {
@@ -485,6 +485,7 @@ form .message textarea {
   border: 1px solid #ccc;
 }
 
+
 form .message {
   position: relative;
 }
@@ -524,7 +525,7 @@ form .button-area {
       width: 75%;
   }
   form .field input, form .message textarea {
-      font-size: 12px;
+      font-size: 8px;
   }
   main #contact {
       margin: 10em 3em 5em 3em;

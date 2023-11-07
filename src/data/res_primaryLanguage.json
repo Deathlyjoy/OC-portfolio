@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "👋 Je m'appelle Quentin et je me suis récemment reconverti dans le domaine du développement Web. Mon parcours professionnel m'a amené à suivre un nouveau cursus d'intégrateur Web. En tant que passionné des nouvelles technologies, j'ai pu relever ce nouveau challenge qui m'a permis de découvrir la création de sites web ainsi que les différentes principes de programmation Web : Conception de sites web dynamiques, Optimisation du code, référencement SEO des sites web, planification de projets, utilisation du framework React. Autant d'aspects que je souhaite dorénavant mettre en pratique en tant que jeune développeur. Je me consacre donc à la réalisation de vos solutions personnalisés pour vous créer des applications web interactives et performantes.",      
+      "description": "👋 Je m'appelle Quentin et je me suis récemment reconverti dans le domaine du développement Web. Mon parcours professionnel m'a amené à suivre un nouveau cursus d'intégrateur Web. En tant que passionné des nouvelles technologies, j'ai pu relever ce nouveau challenge qui m'a permis de découvrir la création de sites web ainsi que les différentes principes de programmation Web : Conception de sites web dynamiques, Optimisation du code, référencement SEO des sites web, planification de projets, utilisation du framework React. Autant d'aspects que je souhaite dorénavant mettre en pratique en tant que jeune développeur. Je me consacre donc à la réalisation de vos solutions personnalisées pour vous créer des applications Web aussi bien interactives que performantes.",      
       "section_name": {
         "about": "À propos de moi",
         "projects": "Projets",
@@ -15,39 +15,40 @@
         "startDate": "2023",
         "description": "Vous avez intégré Ohmyfood en tant que développeur junior. Il s’agit d’une jeune startup qui voudrait s'imposer sur le marché de la restauration. Déjà présente à New-York, elle souhaite désormais faire sa place à Paris. Votre mission est de développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !",
         "images": [
-          "images/portfolio/Oh_my_food/ohmyfood-template.webp",
-          "images/portfolio/Oh_my_food/ohmyfood-menu.webp"
+          "images/portfolio/ohmyfood/ohmyfood.webp",
+          "images/portfolio/ohmyfood/ohmyfood-screen1.webp",
+          "images/portfolio/ohmyfood/ohmyfood-screen2.webp"
         ],
-        "url": "",
+        "url": "https://github.com/Deathlyjoy/Oh-my-food",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "Portfolio Sophie Bluel",
+        "title": "Sophie Bluel",
         "startDate": "2023",
         "description": "Vous travaillez comme développeur front-end pour l’agence ArchiWebos qui comprend 50 salariés. Ayant terminé votre dernier projet avec un peu d'avance, vous êtes envoyé en renfort comme développeur front-end d’une équipe qui travaille sur la conception du site portfolio d’une architecte d’intérieur. Nous sommes lundi matin et c’est l’heure de votre premier brief d’équipe pour ce projet. Vous savez que vous allez recevoir beaucoup d’informations, vous vous préparez donc à prendre des notes.",
         "images": [
-          "images/portfolio/Portfolio_Bruel/sophie-template.webp",
-          "images/portfolio/Portfolio_Bruel/sophie-log.webp",
-          "images/portfolio/Portfolio_Bruel/sophie-modal.webp"
+          "images/portfolio/sophiebluel/sophiebluel.webp",
+          "images/portfolio/sophiebluel/sophiebluel-screen1.webp",
+          "images/portfolio/sophiebluel/sophiebluel-screen2.webp"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Deathlyjoy/Portfolio-architecte-sophie-bluel",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -60,23 +61,19 @@
         "startDate": "2023",
         "description": "Kasa vous recrute en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web. Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans maintenant. Avec plus de 500 annonces postées chaque jour, Kasa fait partie des leaders de la location d’appartements entre particuliers en France. L'occasion parfaite pour vous d'ajouter une belle référence à votre portfolio de freelance !",
         "images": [
-          "images/portfolio/Kasa/kasa-template.webp",
-          "images/portfolio/Kasa/kasa-projet.jpg",
-          "images/portfolio/Kasa/kasa-projet-2.jpg"
+          "images/portfolio/kasa/kasa.webp",
+          "images/portfolio/kasa/kasa-screen1.webp",
+          "images/portfolio/kasa/kasa-screen2.webp"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Deathlyjoy/kasa",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       }
