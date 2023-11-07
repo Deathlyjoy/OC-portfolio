@@ -1,12 +1,12 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Je m'appelle Quentin et je me suis récemment reconverti dans le domaine du développement Web. Mon parcours professionnel m'a amené à suivre un nouveau cursus d'intégrateur Web. En tant que passionné des nouvelles technologies, j'ai pu relever ce nouveau challenge qui m'a permis de découvrir la création de sites web ainsi que les différentes principes de programmation Web : Conception de sites web dynamiques, Optimisation du code, référencement SEO des sites web, planification de projets, utilisation du framework React. Autant d'aspects que je souhaite dorénavant mettre en pratique en tant que jeune développeur. Je me consacre donc à la réalisation de vos solutions personnalisés pour vous créer des applications web interactives et performantes.",      
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "about": "À propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [

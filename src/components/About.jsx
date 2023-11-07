@@ -5,20 +5,21 @@ import { Icon } from "@iconify/react";
 //---------- LOGO ----------
 import htmlIcon from "@iconify/icons-logos/html-5";
 import cssIcon from "@iconify/icons-logos/css-3";
+import jsIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
 
 //---------- ASSETS ----------
 import profilepic from "../assets/quentin-colombelle.JPG";
 
 const About = ({ resumeBasicInfo }) => {
-  const sectionName = resumeBasicInfo?.section_name.about;
-  const hello = resumeBasicInfo?.description_header;
-  const about = resumeBasicInfo?.description;
+  const sectionName = resumeBasicInfo.section_name.about;
+  const hello = resumeBasicInfo.description_header;
+  const about = resumeBasicInfo.description;
 
   return (
     <section id="about">
       <div className="col-md-12">
-        <h1 style={{ color: "black" }}>
+        <h1 className="section-title" style={{ color: "white" }}>
           <span>{sectionName}</span>
         </h1>
         <div className="row center mx-auto mb-5">
@@ -36,6 +37,10 @@ const About = ({ resumeBasicInfo }) => {
                     />
                     <Icon
                         icon={cssIcon}
+                        style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                    <Icon
+                        icon={jsIcon}
                         style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                     />
                     <Icon
@@ -58,7 +63,6 @@ const About = ({ resumeBasicInfo }) => {
                 <div className="card-body font-trebuchet text-justify ml-3 mr-3" style={{ height: "auto", fontSize: "132%", lineHeight: "200%" }}>
                   <br />
                   <span className="wave">{hello} </span>
-                  <br />
                   <br />
                   {about}
                 </div>

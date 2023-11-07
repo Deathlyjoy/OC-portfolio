@@ -10,6 +10,12 @@
           "description": "Logo Github"
         }
       ],
+      "address": [
+        {
+          "city": "83170 TOURVES",
+          "region": "France"
+        }
+      ],
       "image": "myProfile.jpg"
     },
     "skills": {
