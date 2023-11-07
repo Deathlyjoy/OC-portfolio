@@ -10,8 +10,7 @@ const Header = ({ sharedData }) => {
                 <div className="col-md-12">
                     <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
                     <br />
-                    <h1 className="mb-0">{name}</h1>
-                    <h2 className="mb-0">{address}</h2>
+                    <h1 className="mb-0">{name}<br></br>{address}</h1>
                 </div>
             </div>
         </header>
