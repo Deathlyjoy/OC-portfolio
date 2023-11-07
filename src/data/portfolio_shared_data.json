@@ -2,6 +2,7 @@
     "basic_info": {
       "name": "Quentin Colombelle",
       "titles": [ "Front-end Developer", "Web Integrator", "Mobile App Developer" ],
+      "address": "83170 Tourves, Var, France",
       "social": [
         {
           "name": "Github",
@@ -10,7 +11,7 @@
           "description": "Logo Github"
         }
       ],
-      "address": [
+      "contact": [
         {
           "city": "83170 TOURVES",
           "region": "France"
