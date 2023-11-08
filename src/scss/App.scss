@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400&display=swap');
-
 html {
   font-size: 62.5%;
   -webkit-font-smoothing: antialiased;
@@ -52,7 +50,7 @@ header {
 
 .project-date {
   font-size: 16px;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "opensans-bold", sans-serif;
   padding: 8px 15px 2px 15px;
   position: relative;
   z-index: -500;
@@ -82,7 +80,7 @@ header h1 {
   text-align: center;
   font-weight: 600 !important;
   color: #353239;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "opensans-bold", sans-serif;
   margin: 0 auto 18px auto;
   width: 100%;
 }
@@ -213,8 +211,7 @@ header h1 {
 }
 
 .font-trebuchet {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 #preview {
@@ -249,7 +246,7 @@ header h1 {
   background-color: #a9a7a7 !important;
   color: white;
   font-weight: lighter !important;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: "opensans-bold", serif;
 }
 
 .experience-badge {
@@ -260,7 +257,7 @@ header h1 {
   background-color: #a9a7a7 !important;
   color: black;
   font-weight: lighter !important;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: "opensans-bold", serif;
 }
 
 .vertical-timeline-element-date {
