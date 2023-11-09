@@ -1,0 +1,32 @@
+header {
+    position: relative;
+    height: 520px;
+    min-height: 450px;
+    width: 100%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    text-align: center;
+    overflow: hidden;
+    background-color: #494949;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+header h1 {
+  font-size: 400%;
+  text-align: center;
+  font-weight: 600 !important;
+  color: #353239;
+  font-family: "opensans-bold", sans-serif;
+  margin: 0 auto 18px auto;
+  width: 100%;
+}
+
+.header-icon {
+  height: 150px;
+  width: 150px;
+}

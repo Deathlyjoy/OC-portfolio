@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import ProjectDetailsModal from "./ProjectDetailsModal";
 
+//---------- CSS ----------
+import "../scss/projects.scss";
+
 class Projects extends Component {
   constructor(props) {
     super(props);

@@ -1,5 +1,8 @@
 import React from "react";
 
+//---------- CSS ----------
+import "../scss/header.scss";
+
 const Header = ({ sharedData }) => {
     const name = sharedData.name;
     const address = sharedData.address;

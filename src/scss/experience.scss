@@ -1,0 +1,44 @@
+#resume {
+    background-color: #7f7f7f;
+  }
+  
+  .experience-icon {
+    font-size: 300%;
+    margin-top: 25%;
+    text-align: center;
+  }
+  
+  .main-badge {
+    font-size: 13px !important;
+    text-align: left !important;
+    padding: 5px 8px 5px 8px !important;
+    vertical-align: baseline;
+    background-color: #a9a7a7 !important;
+    color: white;
+    font-weight: lighter !important;
+    font-family: "opensans-bold", serif;
+  }
+  
+  .experience-badge {
+    font-size: 11px !important;
+    text-align: left !important;
+    padding: 5px 8px 5px 8px !important;
+    vertical-align: baseline;
+    background-color: #a9a7a7 !important;
+    color: black;
+    font-weight: lighter !important;
+    font-family: "opensans-bold", serif;
+  }
+  
+  .vertical-timeline-element-date {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  @media only screen and (max-width: 1170px) {
+    .experience-icon {
+      font-size: 170%;
+      margin-top: 27%;
+      text-align: center;
+    }
+  }

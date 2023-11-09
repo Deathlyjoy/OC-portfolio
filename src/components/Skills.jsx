@@ -1,5 +1,8 @@
 import React from "react";
 
+//---------- CSS ----------
+import "../scss/skills.scss";
+
 const Skills = ({ sharedSkills, resumeBasicInfo }) => {
     const sectionName = resumeBasicInfo.section_name.skills;
     const skills = sharedSkills.icons.map((skills, i) => (

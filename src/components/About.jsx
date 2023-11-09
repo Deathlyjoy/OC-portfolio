@@ -2,6 +2,9 @@
 import React from "react";
 import { Icon } from "@iconify/react";
 
+//---------- CSS ----------
+import "../scss/about.scss";
+
 //---------- LOGO ----------
 import htmlIcon from "@iconify/icons-logos/html-5";
 import cssIcon from "@iconify/icons-logos/css-3";

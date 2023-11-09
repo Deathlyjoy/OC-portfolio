@@ -6,6 +6,9 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
 
+//---------- CSS ----------
+import "../scss/experience.scss";
+
 const Experience = ({ resumeExperience, resumeBasicInfo }) => {
     const sectionName = resumeBasicInfo.section_name.experience;
 

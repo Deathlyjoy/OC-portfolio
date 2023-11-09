@@ -1,5 +1,8 @@
 import React from "react";
 
+//---------- CSS ----------
+import "../scss/footer.scss";
+
 const Footer = ({ sharedBasicInfo }) => {
     let networks;
     if (sharedBasicInfo) {
