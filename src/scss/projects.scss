@@ -1,3 +1,42 @@
+#portfolio {
+  background-color: #5b5b5b;
+  padding-bottom: 5%;
+}
+
+.portfolio-item {
+  max-width: 100%;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color: rgba(51, 51, 51, 0.9);
+}
+
+.portfolio .portfolio-item .portfolio-item-caption:hover {
+  opacity: 1;
+}
+
+.portfolio
+  .portfolio-item
+  .portfolio-item-caption
+  .portfolio-item-caption-content {
+  font-size: 1.5rem;
+}
+
+@media (min-width: 576px) {
+  .portfolio .closeButtonResponsive {
+    display: block;
+  }
+  .portfolio .portfolio-item {
+    margin-bottom: 30px;
+  }
+}
+
 .project-date {
     font-size: 16px;
     font-family: "opensans-bold", sans-serif;
@@ -17,4 +56,43 @@
   letter-spacing: 3px;
   color: black;
   text-align: center;
+}
+
+.modal-close {
+  text-align: right;
+  padding: 10px 15px 10px 15px;
+  cursor: pointer;
+}
+
+.close-icon {
+  color: black;
+  font-weight: lighter !important;
+}
+
+.modal-inside .modal-content {
+  background: white;
+}
+
+.link-href {
+  color: black;
+}
+
+.slider-image {
+  border: 5px solid #d7caaa;
+}
+
+.slider-tab {
+  background-color: #d7caaa;
+  height: 25px;
+}
+
+.slider-iconfiy {
+  margin-top: 10px;
+}
+
+.modal-description {
+  text-align: justify;
+  padding: 5px 5px 0 5px;
+  margin-bottom: 20px;
+  font-size: 12px;
 }

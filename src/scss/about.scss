@@ -12,6 +12,16 @@
   text-align: center;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.font-trebuchet {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
 .foto img {
   display: block;
   width: 100%;
@@ -38,6 +48,23 @@
   border-radius: 20px;
 }
 
+.foto div:after {
+  color: #333;
+  font-size: 25px;
+  content: attr(title);
+  position: relative;
+  top: 15px;
+}
+
+.foto div:hover {
+  -webkit-transform: scale(1.01);
+  -moz-transform: scale(1.01);
+  transform: scale(1.01);
+  z-index: 10;
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+}
 
 
 .polaroid {
