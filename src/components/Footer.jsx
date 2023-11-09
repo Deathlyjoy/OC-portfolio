@@ -5,7 +5,7 @@ const Footer = ({ sharedBasicInfo }) => {
     if (sharedBasicInfo) {
         networks = sharedBasicInfo.social.map((network) => (
             <span key={network.name} className="m-4">
-                <a href={network.url} alt={network.description} target="_blank" rel="noopener noreferrer">
+                <a href={network.url} alt={network.description} target="_blank" rel="noopener noreferrer" >
                     <i className={network.class}></i>
                 </a>
             </span>
